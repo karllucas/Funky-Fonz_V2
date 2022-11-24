@@ -1,7 +1,9 @@
 # This is the develop branch
 
 First run the command below on your git to set legacy options for webpack:<br />
+```sh
 export NODE_OPTIONS=--openssl-legacy-provider
+```
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
