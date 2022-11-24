@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "iconClass": "pe-7s-portfolio",
+    "countNum": 400,
+    "title": "phone sales"
+  },
+  {
+    "id": "2",
+    "iconClass": "pe-7s-cup",
+    "countNum": 320,
+    "title": "cups of coffee"
+  },
+  {
+    "id": "3",
+    "iconClass": "pe-7s-light",
+    "countNum": 17,
+    "title": "Products"
+  },
+  {
+    "id": "4",
+    "iconClass": "pe-7s-smile",
+    "countNum": 50,
+    "title": "happy clients"
+  }
+]
