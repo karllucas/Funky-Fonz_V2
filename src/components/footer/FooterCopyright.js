@@ -21,7 +21,7 @@ const FooterCopyright = ({ footerLogo, spaceBottomClass, colorClass }) => {
           rel="noopener noreferrer"
           target="_blank"
         >
-          Flone
+          Funky Phones
         </a>
         .<br /> All Rights Reserved
       </p>
