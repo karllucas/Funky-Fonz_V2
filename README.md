@@ -1,4 +1,4 @@
-# This is the develop branch
+# This is the feature/feature_branch branch
 
 First run the command below on your git to set legacy options for webpack:<br />
 ```sh
