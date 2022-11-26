@@ -2,10 +2,10 @@
   {
     "id": "1",
     "sku": "asdf123",
-    "name": "Lorem ipsum jacket",
+    "name": "Apple iPhone 14",
     "price": 12.45,
     "discount": 10,
-    "offerEnd": "October 5, 2020 12:11:00",
+    "offerEnd": "January 5, 2023 12:11:00",
     "new": false,
     "rating": 4,
     "saleCount": 54,
@@ -14,7 +14,7 @@
     "variation": [
       {
         "color": "white",
-        "image": "/assets/img/product/fashion/1.jpg",
+        "image": "/assets/img/product/fashion/iPhone-14-e.jpg",
         "size": [
           {
             "name": "x",
@@ -32,7 +32,7 @@
       },
       {
         "color": "black",
-        "image": "/assets/img/product/fashion/8.jpg",
+        "image": "/assets/img/product/fashion/iPhone-14.jpg",
         "size": [
           {
             "name": "x",
@@ -53,8 +53,8 @@
         ]
       },
       {
-        "color": "brown",
-        "image": "/assets/img/product/fashion/3.jpg",
+        "color": "red",
+        "image": "/assets/img/product/fashion/iPhone-14-b.jpg",
         "size": [
           {
             "name": "x",
@@ -76,11 +76,11 @@
       }
     ],
     "image": [
-      "/assets/img/product/fashion/1.jpg",
-      "/assets/img/product/fashion/3.jpg",
-      "/assets/img/product/fashion/6.jpg",
-      "/assets/img/product/fashion/8.jpg",
-      "/assets/img/product/fashion/9.jpg"
+      "/assets/img/product/fashion/iPhone-14.jpg",
+      "/assets/img/product/fashion/iPhone-14-b.jpg",
+      "/assets/img/product/fashion/iPhone-14-c.jpg",
+      "/assets/img/product/fashion/iPhone-14-d.jpg",
+      "/assets/img/product/fashion/iPhone-14-e.jpg"
     ],
     "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
     "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur? Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure?"
@@ -88,7 +88,7 @@
   {
     "id": "2",
     "sku": "asdf124",
-    "name": "Lorem ipsum coat",
+    "name": "Apple iPhone 14 Plus",
     "price": 18.5,
     "discount": 15,
     "new": false,
@@ -99,7 +99,7 @@
     "variation": [
       {
         "color": "blue",
-        "image": "/assets/img/product/fashion/2.jpg",
+        "image": "/assets/img/product/fashion/iPhone-14-Plus.jpg",
         "size": [
           {
             "name": "x",
@@ -116,8 +116,8 @@
         ]
       },
       {
-        "color": "brown",
-        "image": "/assets/img/product/fashion/4.jpg",
+        "color": "red",
+        "image": "/assets/img/product/fashion/iPhone-14-Plus-c.jpg",
         "size": [
           {
             "name": "x",
@@ -139,7 +139,7 @@
       },
       {
         "color": "black",
-        "image": "/assets/img/product/fashion/5.jpg",
+        "image": "/assets/img/product/fashion/iPhone-14-Plus-e.jpg",
         "size": [
           {
             "name": "x",
@@ -161,11 +161,11 @@
       }
     ],
     "image": [
-      "/assets/img/product/fashion/2.jpg",
-      "/assets/img/product/fashion/4.jpg",
-      "/assets/img/product/fashion/5.jpg",
-      "/assets/img/product/fashion/7.jpg",
-      "/assets/img/product/fashion/9.jpg"
+      "/assets/img/product/fashion/iPhone-14-Plus.jpg",
+      "/assets/img/product/fashion/iPhone-14-Plus-b.jpg",
+      "/assets/img/product/fashion/iPhone-14-Plus-c.jpg",
+      "/assets/img/product/fashion/iPhone-14-Plus-d.jpg",
+      "/assets/img/product/fashion/iPhone-14-Plus-e.jpg"
     ],
     "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
     "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur? Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure?"
@@ -174,7 +174,7 @@
   {
     "id": "3",
     "sku": "asdf125",
-    "name": "Lorem ipsum jacket",
+    "name": "Apple iPhone 14 Pro Max",
     "price": 17.45,
     "discount": 40,
     "offerEnd": "October 2, 2020 12:11:00",
@@ -186,7 +186,7 @@
     "variation": [
       {
         "color": "white",
-        "image": "/assets/img/product/fashion/1.jpg",
+        "image": "/assets/img/product/fashion/iPhone-14-Pro-Max-white.jpg",
         "size": [
           {
             "name": "x",
@@ -204,7 +204,7 @@
       },
       {
         "color": "black",
-        "image": "/assets/img/product/fashion/8.jpg",
+        "image": "/assets/img/product/fashion/iPhone-14-Pro-Max-Black.jpg",
         "size": [
           {
             "name": "x",
@@ -225,8 +225,8 @@
         ]
       },
       {
-        "color": "brown",
-        "image": "/assets/img/product/fashion/3.jpg",
+        "color": "purple",
+        "image": "/assets/img/product/fashion/iPhone-14-Pro-Max-Purple.jpg",
         "size": [
           {
             "name": "x",
@@ -248,11 +248,10 @@
       }
     ],
     "image": [
-      "/assets/img/product/fashion/3.jpg",
-      "/assets/img/product/fashion/1.jpg",
-      "/assets/img/product/fashion/6.jpg",
-      "/assets/img/product/fashion/8.jpg",
-      "/assets/img/product/fashion/9.jpg"
+      "/assets/img/product/fashion/iPhone-14-Pro-Max-Black.jpg",
+      "/assets/img/product/fashion/iPhone-14-Pro-Max-White.jpg",
+      "/assets/img/product/fashion/iPhone-14-Pro-Max-Gold.jpg",
+      "/assets/img/product/fashion/iPhone-14-Pro-Max-Purple.jpg"
     ],
     "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
     "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur? Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure?"
@@ -260,7 +259,7 @@
   {
     "id": "4",
     "sku": "asdf126",
-    "name": "Lorem ipsum fashion coat",
+    "name": "Apple iPhone 14 Pro",
     "price": 15.5,
     "discount": 0,
     "new": true,
@@ -270,8 +269,8 @@
     "tag": ["fashion", "women", "coat", "full sleeve"],
     "variation": [
       {
-        "color": "blue",
-        "image": "/assets/img/product/fashion/2.jpg",
+        "color": "purple",
+        "image": "/assets/img/product/fashion/iPhone-14-Pro-Purple.jpg",
         "size": [
           {
             "name": "x",
@@ -288,8 +287,8 @@
         ]
       },
       {
-        "color": "brown",
-        "image": "/assets/img/product/fashion/4.jpg",
+        "color": "white",
+        "image": "/assets/img/product/fashion/iPhone-14-Pro-White.jpg",
         "size": [
           {
             "name": "x",
@@ -311,7 +310,7 @@
       },
       {
         "color": "black",
-        "image": "/assets/img/product/fashion/5.jpg",
+        "image": "/assets/img/product/fashion/iPhone-14-Pro-Black.jpg",
         "size": [
           {
             "name": "x",
@@ -333,11 +332,10 @@
       }
     ],
     "image": [
-      "/assets/img/product/fashion/4.jpg",
-      "/assets/img/product/fashion/2.jpg",
-      "/assets/img/product/fashion/5.jpg",
-      "/assets/img/product/fashion/7.jpg",
-      "/assets/img/product/fashion/9.jpg"
+      "/assets/img/product/fashion/iPhone-14-Pro-Gold.jpg",
+      "/assets/img/product/fashion/iPhone-14-Pro-Purple.jpg",
+      "/assets/img/product/fashion/iPhone-14-Pro-Black.jpg",
+      "/assets/img/product/fashion/iPhone-14-Pro-White.jpg"
     ],
     "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
     "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur? Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure?"
@@ -345,7 +343,7 @@
   {
     "id": "5",
     "sku": "asdf127",
-    "name": "Lorem ipsum female coat",
+    "name": "Nokia X10 (5G)",
     "price": 25.5,
     "discount": 10,
     "new": true,
@@ -356,7 +354,7 @@
     "variation": [
       {
         "color": "blue",
-        "image": "/assets/img/product/fashion/2.jpg",
+        "image": "/assets/img/product/fashion/Nokia-X10-Blue.jpg",
         "size": [
           {
             "name": "x",
@@ -373,8 +371,8 @@
         ]
       },
       {
-        "color": "brown",
-        "image": "/assets/img/product/fashion/4.jpg",
+        "color": "white",
+        "image": "/assets/img/product/fashion/Nokia-X10-White.jpg",
         "size": [
           {
             "name": "x",
@@ -393,36 +391,11 @@
             "stock": 7
           }
         ]
-      },
-      {
-        "color": "black",
-        "image": "/assets/img/product/fashion/5.jpg",
-        "size": [
-          {
-            "name": "x",
-            "stock": 3
-          },
-          {
-            "name": "m",
-            "stock": 7
-          },
-          {
-            "name": "xl",
-            "stock": 0
-          },
-          {
-            "name": "xxl",
-            "stock": 7
-          }
-        ]
       }
     ],
     "image": [
-      "/assets/img/product/fashion/5.jpg",
-      "/assets/img/product/fashion/2.jpg",
-      "/assets/img/product/fashion/4.jpg",
-      "/assets/img/product/fashion/7.jpg",
-      "/assets/img/product/fashion/9.jpg"
+      "/assets/img/product/fashion/Nokia-X10-Blue.jpg",
+      "/assets/img/product/fashion/Nokia-X10-White.jpg"
     ],
     "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
     "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur? Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure?"
@@ -430,10 +403,10 @@
   {
     "id": "6",
     "sku": "asdf128",
-    "name": "Lorem ipsum jacket",
+    "name": "Nokia G21",
     "price": 19.85,
     "discount": 0,
-    "offerEnd": "October 17, 2020 12:11:00",
+    "offerEnd": "January 17, 2023 12:11:00",
     "new": true,
     "rating": 5,
     "saleCount": 65,
@@ -441,8 +414,8 @@
     "tag": ["fashion", "men", "jacket", "full sleeve"],
     "variation": [
       {
-        "color": "white",
-        "image": "/assets/img/product/fashion/1.jpg",
+        "color": "Blue",
+        "image": "/assets/img/product/fashion/Nokia-G21-Blue.jpg",
         "size": [
           {
             "name": "x",
@@ -460,7 +433,7 @@
       },
       {
         "color": "black",
-        "image": "/assets/img/product/fashion/8.jpg",
+        "image": "/assets/img/product/fashion/Nokia-G21-Grey.jpg",
         "size": [
           {
             "name": "x",
@@ -479,36 +452,11 @@
             "stock": 1
           }
         ]
-      },
-      {
-        "color": "brown",
-        "image": "/assets/img/product/fashion/3.jpg",
-        "size": [
-          {
-            "name": "x",
-            "stock": 1
-          },
-          {
-            "name": "m",
-            "stock": 2
-          },
-          {
-            "name": "xl",
-            "stock": 4
-          },
-          {
-            "name": "xxl",
-            "stock": 0
-          }
-        ]
       }
     ],
     "image": [
-      "/assets/img/product/fashion/6.jpg",
-      "/assets/img/product/fashion/3.jpg",
-      "/assets/img/product/fashion/1.jpg",
-      "/assets/img/product/fashion/8.jpg",
-      "/assets/img/product/fashion/9.jpg"
+      "/assets/img/product/fashion/Nokia-G21-Blue.jpg",
+      "/assets/img/product/fashion/Nokia-G21-Grey.jpg"
     ],
     "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
     "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur? Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure?"
@@ -516,7 +464,7 @@
   {
     "id": "7",
     "sku": "asdf129",
-    "name": "Lorem ipsum fashion female coat",
+    "name": "Nokia G20 (5G)",
     "price": 55.5,
     "discount": 40,
     "new": true,
@@ -526,8 +474,8 @@
     "tag": ["fashion", "women", "coat", "full sleeve"],
     "variation": [
       {
-        "color": "blue",
-        "image": "/assets/img/product/fashion/2.jpg",
+        "color": "white",
+        "image": "/assets/img/product/fashion/Nokia-G20-White.jpg",
         "size": [
           {
             "name": "x",
@@ -544,8 +492,8 @@
         ]
       },
       {
-        "color": "brown",
-        "image": "/assets/img/product/fashion/4.jpg",
+        "color": "purple",
+        "image": "/assets/img/product/fashion/Nokia-G20-Purple.jpg",
         "size": [
           {
             "name": "x",
@@ -564,36 +512,11 @@
             "stock": 7
           }
         ]
-      },
-      {
-        "color": "black",
-        "image": "/assets/img/product/fashion/5.jpg",
-        "size": [
-          {
-            "name": "x",
-            "stock": 3
-          },
-          {
-            "name": "m",
-            "stock": 7
-          },
-          {
-            "name": "xl",
-            "stock": 0
-          },
-          {
-            "name": "xxl",
-            "stock": 7
-          }
-        ]
       }
     ],
     "image": [
-      "/assets/img/product/fashion/7.jpg",
-      "/assets/img/product/fashion/5.jpg",
-      "/assets/img/product/fashion/2.jpg",
-      "/assets/img/product/fashion/4.jpg",
-      "/assets/img/product/fashion/9.jpg"
+      "/assets/img/product/fashion/Nokia-G20-Purple.jpg",
+      "/assets/img/product/fashion/Nokia-G20-White.jpg"
     ],
     "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
     "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur? Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure?"
@@ -601,7 +524,7 @@
   {
     "id": "8",
     "sku": "asdf130",
-    "name": "Lorem ipsum fashion jacket",
+    "name": "Nokia X20 (5G)",
     "price": 29.85,
     "discount": 10,
     "offerEnd": "October 18, 2020 12:11:00",
@@ -612,11 +535,8 @@
     "tag": ["fashion", "men", "jacket", "full sleeve"],
     "stock": 0,
     "image": [
-      "/assets/img/product/fashion/8.jpg",
-      "/assets/img/product/fashion/6.jpg",
-      "/assets/img/product/fashion/3.jpg",
-      "/assets/img/product/fashion/1.jpg",
-      "/assets/img/product/fashion/9.jpg"
+      "/assets/img/product/fashion/Nokia-X20-Blue.jpg",
+      "/assets/img/product/fashion/Nokia-X20-Pink.jpg"
     ],
     "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
     "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur? Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure?"
@@ -624,7 +544,7 @@
   {
     "id": "9",
     "sku": "asdf131",
-    "name": "Lorem ipsum fashion female top",
+    "name": "Samsung Galaxy Z Flip 4",
     "price": 35.6,
     "discount": 0,
     "new": false,
@@ -635,11 +555,10 @@
     "stock": 5,
     "affiliateLink": "//www.amazon.com",
     "image": [
-      "/assets/img/product/fashion/9.jpg",
-      "/assets/img/product/fashion/7.jpg",
-      "/assets/img/product/fashion/5.jpg",
-      "/assets/img/product/fashion/2.jpg",
-      "/assets/img/product/fashion/4.jpg"
+      "/assets/img/product/fashion/Samsung-Galaxy-Z-Flip-4-Black.jpg",
+      "/assets/img/product/fashion/Samsung-Galaxy-Z-Flip-4-Gold.jpg",
+      "/assets/img/product/fashion/Samsung-Galaxy-Z-Flip-4-Purple.jpg",
+      "/assets/img/product/fashion/Samsung-Galaxy-Z-Flip-4-White.jpg"
     ],
     "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
     "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
@@ -647,7 +566,7 @@
   {
     "id": "88",
     "sku": "asdf210",
-    "name": "Lorem ipsum kids one",
+    "name": "Samsung Galaxy F22",
     "price": 12.45,
     "discount": 10,
     "offerEnd": "October 5, 2020 12:11:00",
@@ -659,7 +578,7 @@
     "variation": [
       {
         "color": "white",
-        "image": "/assets/img/product/fashion/23.jpg",
+        "image": "/assets/img/product/fashion/Samsung-Galaxy-F22-Black.jpg",
         "size": [
           {
             "name": "x",
@@ -677,7 +596,7 @@
       },
       {
         "color": "black",
-        "image": "/assets/img/product/fashion/24.jpg",
+        "image": "/assets/img/product/fashion/Samsung-Galaxy-F22-Blue.jpg",
         "size": [
           {
             "name": "x",
@@ -696,36 +615,11 @@
             "stock": 1
           }
         ]
-      },
-      {
-        "color": "brown",
-        "image": "/assets/img/product/fashion/25.jpg",
-        "size": [
-          {
-            "name": "x",
-            "stock": 1
-          },
-          {
-            "name": "m",
-            "stock": 2
-          },
-          {
-            "name": "xl",
-            "stock": 4
-          },
-          {
-            "name": "xxl",
-            "stock": 0
-          }
-        ]
       }
     ],
     "image": [
-      "/assets/img/product/fashion/23.jpg",
-      "/assets/img/product/fashion/24.jpg",
-      "/assets/img/product/fashion/25.jpg",
-      "/assets/img/product/fashion/26.jpg",
-      "/assets/img/product/fashion/27.jpg"
+      "/assets/img/product/fashion/Samsung-Galaxy-F22-Black.jpg",
+      "/assets/img/product/fashion/Samsung-Galaxy-F22-Blue.jpg"
     ],
     "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
     "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur? Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure?"
@@ -733,7 +627,7 @@
   {
     "id": "89",
     "sku": "asdf211",
-    "name": "Lorem ipsum kids two",
+    "name": "Samsung Galaxy F42 (5G)",
     "price": 18.5,
     "discount": 15,
     "new": false,
@@ -743,8 +637,8 @@
     "tag": ["fashion", "kids"],
     "variation": [
       {
-        "color": "blue",
-        "image": "/assets/img/product/fashion/24.jpg",
+        "color": "black",
+        "image": "/assets/img/product/fashion/Samsung-Galaxy-F42-Black.jpg",
         "size": [
           {
             "name": "x",
@@ -761,8 +655,8 @@
         ]
       },
       {
-        "color": "brown",
-        "image": "/assets/img/product/fashion/25.jpg",
+        "color": "light blue",
+        "image": "/assets/img/product/fashion/Samsung-Galaxy-F42-Light-Blue.jpg",
         "size": [
           {
             "name": "x",
@@ -781,36 +675,11 @@
             "stock": 7
           }
         ]
-      },
-      {
-        "color": "black",
-        "image": "/assets/img/product/fashion/26.jpg",
-        "size": [
-          {
-            "name": "x",
-            "stock": 3
-          },
-          {
-            "name": "m",
-            "stock": 7
-          },
-          {
-            "name": "xl",
-            "stock": 0
-          },
-          {
-            "name": "xxl",
-            "stock": 7
-          }
-        ]
       }
     ],
     "image": [
-      "/assets/img/product/fashion/24.jpg",
-      "/assets/img/product/fashion/25.jpg",
-      "/assets/img/product/fashion/26.jpg",
-      "/assets/img/product/fashion/27.jpg",
-      "/assets/img/product/fashion/28.jpg"
+      "/assets/img/product/fashion/Samsung-Galaxy-F42-Black.jpg",
+      "/assets/img/product/fashion/Samsung-Galaxy-F42-Light-Blue.jpg"
     ],
     "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
     "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur? Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure?"
@@ -819,10 +688,10 @@
   {
     "id": "90",
     "sku": "asdf212",
-    "name": "Lorem ipsum kids three",
+    "name": "Samsung Galaxy S22 (5G)",
     "price": 17.45,
     "discount": 40,
-    "offerEnd": "October 2, 2020 12:11:00",
+    "offerEnd": "February 2, 2023 12:11:00",
     "new": true,
     "rating": 5,
     "saleCount": 36,
@@ -830,8 +699,8 @@
     "tag": ["fashion", "kids"],
     "variation": [
       {
-        "color": "white",
-        "image": "/assets/img/product/fashion/25.jpg",
+        "color": "pink",
+        "image": "/assets/img/product/fashion/Samsung-Galaxy-S22-Pink.jpg",
         "size": [
           {
             "name": "x",
@@ -848,8 +717,8 @@
         ]
       },
       {
-        "color": "black",
-        "image": "/assets/img/product/fashion/26.jpg",
+        "color": "green",
+        "image": "/assets/img/product/fashion/Samsung-Galaxy-S22-Green.jpg",
         "size": [
           {
             "name": "x",
@@ -871,7 +740,7 @@
       },
       {
         "color": "brown",
-        "image": "/assets/img/product/fashion/27.jpg",
+        "image": "/assets/img/product/fashion/Samsung-Galaxy-S22-Black.jpg",
         "size": [
           {
             "name": "x",
@@ -893,11 +762,10 @@
       }
     ],
     "image": [
-      "/assets/img/product/fashion/25.jpg",
-      "/assets/img/product/fashion/26.jpg",
-      "/assets/img/product/fashion/27.jpg",
-      "/assets/img/product/fashion/28.jpg",
-      "/assets/img/product/fashion/29.jpg"
+      "/assets/img/product/fashion/Samsung-Galaxy-S22-Pink.jpg",
+      "/assets/img/product/fashion/Samsung-Galaxy-S22-Green.jpg",
+      "/assets/img/product/fashion/Samsung-Galaxy-S22-Black.jpg",
+      "/assets/img/product/fashion/Samsung-Galaxy-S22-White.jpg"
     ],
     "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
     "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur? Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure?"
@@ -905,7 +773,7 @@
   {
     "id": "91",
     "sku": "asdf213",
-    "name": "Lorem ipsum kids four",
+    "name": "Xiaomi 12S Ultra",
     "price": 15.5,
     "discount": 0,
     "new": true,
@@ -915,8 +783,8 @@
     "tag": ["fashion", "kids"],
     "variation": [
       {
-        "color": "blue",
-        "image": "/assets/img/product/fashion/26.jpg",
+        "color": "black",
+        "image": "/assets/img/product/fashion/Xiaomi-12S-Ultra-Black.jpg",
         "size": [
           {
             "name": "x",
@@ -933,8 +801,8 @@
         ]
       },
       {
-        "color": "brown",
-        "image": "/assets/img/product/fashion/27.jpg",
+        "color": "grey",
+        "image": "/assets/img/product/fashion/Xiaomi-12S-Ultra-Grey.jpg",
         "size": [
           {
             "name": "x",
@@ -953,36 +821,11 @@
             "stock": 7
           }
         ]
-      },
-      {
-        "color": "black",
-        "image": "/assets/img/product/fashion/28.jpg",
-        "size": [
-          {
-            "name": "x",
-            "stock": 3
-          },
-          {
-            "name": "m",
-            "stock": 7
-          },
-          {
-            "name": "xl",
-            "stock": 0
-          },
-          {
-            "name": "xxl",
-            "stock": 7
-          }
-        ]
       }
     ],
     "image": [
-      "/assets/img/product/fashion/26.jpg",
-      "/assets/img/product/fashion/27.jpg",
-      "/assets/img/product/fashion/28.jpg",
-      "/assets/img/product/fashion/29.jpg",
-      "/assets/img/product/fashion/30.jpg"
+      "/assets/img/product/fashion/Xiaomi-12S-Ultra-Black.jpg",
+      "/assets/img/product/fashion/Xiaomi-12S-Ultra-Grey.jpg"
     ],
     "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
     "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur? Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure?"
@@ -990,7 +833,7 @@
   {
     "id": "92",
     "sku": "asdf214",
-    "name": "Lorem ipsum kids five",
+    "name": "Xiaomi 12 Lite (5G)",
     "price": 25.5,
     "discount": 10,
     "new": true,
@@ -1000,8 +843,8 @@
     "tag": ["fashion", "kids"],
     "variation": [
       {
-        "color": "blue",
-        "image": "/assets/img/product/fashion/27.jpg",
+        "color": "black",
+        "image": "/assets/img/product/fashion/Xiaomi-12-Lite-Black.jpg",
         "size": [
           {
             "name": "x",
@@ -1018,8 +861,8 @@
         ]
       },
       {
-        "color": "brown",
-        "image": "/assets/img/product/fashion/28.jpg",
+        "color": "light blue",
+        "image": "/assets/img/product/fashion/Xiaomi-12-Lite-Light-Blue.jpg",
         "size": [
           {
             "name": "x",
@@ -1038,36 +881,11 @@
             "stock": 7
           }
         ]
-      },
-      {
-        "color": "black",
-        "image": "/assets/img/product/fashion/29.jpg",
-        "size": [
-          {
-            "name": "x",
-            "stock": 3
-          },
-          {
-            "name": "m",
-            "stock": 7
-          },
-          {
-            "name": "xl",
-            "stock": 0
-          },
-          {
-            "name": "xxl",
-            "stock": 7
-          }
-        ]
       }
     ],
     "image": [
-      "/assets/img/product/fashion/27.jpg",
-      "/assets/img/product/fashion/28.jpg",
-      "/assets/img/product/fashion/29.jpg",
-      "/assets/img/product/fashion/30.jpg",
-      "/assets/img/product/fashion/23.jpg"
+      "/assets/img/product/fashion/Xiaomi-12-Lite-Black.jpg",
+      "/assets/img/product/fashion/Xiaomi-12-Lite-Light-Blue.jpg"
     ],
     "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
     "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur? Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure?"
@@ -1075,10 +893,10 @@
   {
     "id": "93",
     "sku": "asdf215",
-    "name": "Lorem ipsum kids six",
+    "name": "Poco X4 Pro (5G)",
     "price": 19.85,
     "discount": 0,
-    "offerEnd": "October 17, 2020 12:11:00",
+    "offerEnd": "January 17, 2022 12:11:00",
     "new": true,
     "rating": 5,
     "saleCount": 65,
@@ -1086,8 +904,8 @@
     "tag": ["fashion", "kids"],
     "variation": [
       {
-        "color": "white",
-        "image": "/assets/img/product/fashion/28.jpg",
+        "color": "blue",
+        "image": "/assets/img/product/fashion/Poco-X4-Pro-5G-Blue.jpg",
         "size": [
           {
             "name": "x",
@@ -1105,7 +923,7 @@
       },
       {
         "color": "black",
-        "image": "/assets/img/product/fashion/29.jpg",
+        "image": "/assets/img/product/fashion/Poco-X4-Pro-5G-Black.jpg",
         "size": [
           {
             "name": "x",
@@ -1126,8 +944,8 @@
         ]
       },
       {
-        "color": "brown",
-        "image": "/assets/img/product/fashion/30.jpg",
+        "color": "yellow",
+        "image": "/assets/img/product/fashion/Poco-X4-Pro-5G-Yellow.jpg",
         "size": [
           {
             "name": "x",
@@ -1149,11 +967,9 @@
       }
     ],
     "image": [
-      "/assets/img/product/fashion/28.jpg",
-      "/assets/img/product/fashion/29.jpg",
-      "/assets/img/product/fashion/30.jpg",
-      "/assets/img/product/fashion/23.jpg",
-      "/assets/img/product/fashion/24.jpg"
+      "/assets/img/product/fashion/Poco-X4-Pro-5G-Blue.jpg",
+      "/assets/img/product/fashion/Poco-X4-Pro-5G-Yellow.jpg",
+      "/assets/img/product/fashion/Poco-X4-Pro-5G-Black.jpg"
     ],
     "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
     "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur? Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure?"
@@ -1161,7 +977,7 @@
   {
     "id": "94",
     "sku": "asdf216",
-    "name": "Lorem ipsum kids seven",
+    "name": "OnePlus 10R",
     "price": 55.5,
     "discount": 40,
     "new": true,
@@ -1171,8 +987,8 @@
     "tag": ["fashion", "kids"],
     "variation": [
       {
-        "color": "blue",
-        "image": "/assets/img/product/fashion/29.jpg",
+        "color": "black",
+        "image": "/assets/img/product/fashion/OnePlus-10R-Black.jpg",
         "size": [
           {
             "name": "x",
@@ -1189,8 +1005,8 @@
         ]
       },
       {
-        "color": "brown",
-        "image": "/assets/img/product/fashion/30.jpg",
+        "color": "blue",
+        "image": "/assets/img/product/fashion/OnePlus-10R-Blue.jpg",
         "size": [
           {
             "name": "x",
@@ -1209,36 +1025,11 @@
             "stock": 7
           }
         ]
-      },
-      {
-        "color": "black",
-        "image": "/assets/img/product/fashion/23.jpg",
-        "size": [
-          {
-            "name": "x",
-            "stock": 3
-          },
-          {
-            "name": "m",
-            "stock": 7
-          },
-          {
-            "name": "xl",
-            "stock": 0
-          },
-          {
-            "name": "xxl",
-            "stock": 7
-          }
-        ]
       }
     ],
     "image": [
-      "/assets/img/product/fashion/29.jpg",
-      "/assets/img/product/fashion/30.jpg",
-      "/assets/img/product/fashion/23.jpg",
-      "/assets/img/product/fashion/24.jpg",
-      "/assets/img/product/fashion/25.jpg"
+      "/assets/img/product/fashion/OnePlus-10R-Blue.jpg",
+      "/assets/img/product/fashion/OnePlus-10R-Black.jpg"
     ],
     "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
     "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur? Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure?"
@@ -1246,10 +1037,10 @@
   {
     "id": "95",
     "sku": "asdf217",
-    "name": "Lorem ipsum kids eight",
+    "name": "OnePlus 10 Pro (5G)",
     "price": 29.85,
     "discount": 10,
-    "offerEnd": "October 18, 2020 12:11:00",
+    "offerEnd": "January 18, 2022 12:11:00",
     "new": false,
     "rating": 5,
     "saleCount": 83,
@@ -1257,11 +1048,8 @@
     "tag": ["fashion", "kids"],
     "stock": 0,
     "image": [
-      "/assets/img/product/fashion/30.jpg",
-      "/assets/img/product/fashion/23.jpg",
-      "/assets/img/product/fashion/24.jpg",
-      "/assets/img/product/fashion/25.jpg",
-      "/assets/img/product/fashion/26.jpg"
+      "/assets/img/product/fashion/OnePlus-10-Pro-Black.jpg",
+      "/assets/img/product/fashion/OnePlus-10-Pro-Green.jpg"
     ],
     "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
     "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur? Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure?"
