@@ -13,7 +13,7 @@ const NavMenu = ({ strings, menuWhiteClass, sidebarMenu }) => {
       } `}
     >
       <nav>
-        <ul>
+        <ul style={{ 'textTransform' : 'uppercase', }}>
           <li>
             <Link to={process.env.PUBLIC_URL + "/"}>
               {strings["home"]}
@@ -257,13 +257,13 @@ const NavMenu = ({ strings, menuWhiteClass, sidebarMenu }) => {
             <Link to={process.env.PUBLIC_URL + "/shop-grid-standard"}>
               {" "}
               {strings["shop"]}
-              {sidebarMenu ? (
+              {/* {sidebarMenu ? (
                 <span>
                   <i className="fa fa-angle-right"></i>
                 </span>
               ) : (
                 <i className="fa fa-angle-down" />
-              )}
+              )} */}
             </Link>
             {/* <ul className="mega-menu">
               <li>
