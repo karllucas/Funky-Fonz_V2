@@ -2,25 +2,25 @@
   {
     "id": 1,
     "image": "/assets/img/banner/banner-1.jpg",
-    "title": "Watches",
+    "title": "Apple Phones",
     "subtitle": "Starting at",
-    "price": "$99.00",
+    "price": "$880.00",
     "link": "/shop-grid-standard"
   },
   {
     "id": 2,
     "image": "/assets/img/banner/banner-2.jpg",
-    "title": "Plo Bag",
+    "title": "Samsung Phones",
     "subtitle": "Starting at",
-    "price": "$79.00",
+    "price": "$790.00",
     "link": "/shop-grid-standard"
   },
   {
     "id": 3,
     "image": "/assets/img/banner/banner-3.jpg",
-    "title": "Sunglass",
+    "title": "Nokia Phones",
     "subtitle": "Starting at",
-    "price": "$29.00",
+    "price": "$270.00",
     "link": "/shop-grid-standard"
   }
 ]

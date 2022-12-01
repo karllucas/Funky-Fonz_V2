@@ -10,7 +10,6 @@ import { BreadcrumbsProvider } from "react-breadcrumbs-dynamic";
 // home page
 const Home = lazy(() => import("./pages/home/Home"));
 
-
 // shop page
 const ShopGridStandard = lazy(() => import("./pages/shop/Shop"));
 
