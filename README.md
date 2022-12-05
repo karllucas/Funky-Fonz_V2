@@ -1,6 +1,6 @@
-# This is the main branch.
+# This is the develop branch.
 
-First run the command below on your git to set legacy options for webpack:<br />
+First run the command below on your git to set openssl legacy provider for webpack:<br />
 ```sh
 export NODE_OPTIONS=--openssl-legacy-provider
 ```
