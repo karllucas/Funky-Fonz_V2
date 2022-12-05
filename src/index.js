@@ -24,6 +24,7 @@ const store = createStore(
 // fetch products from json file
 store.dispatch(fetchProducts(products));
 
+// App entry point
 ReactDOM.render(
   <Provider store={store}>
     <App />
